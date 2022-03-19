@@ -1,2 +1,2 @@
-# universidaes
+# universidades
 las mejores universidades de Yucatán
